@@ -1,0 +1,209 @@
+{
+  "name": "JOBS",
+  "children": [
+    {
+      "name": "LEETCODE",
+      "children": [
+        {
+          "name": "DSA",
+          "children": [
+            {
+              "name": "SLIDING WINDOW"
+            },
+            {
+              "name": "TWO POINTER"
+            },
+            {
+              "name": "RECURSION"
+            },
+            {
+              "name": "HASHING"
+            },
+            {
+              "name": "BFS / DFS"
+            },
+            {
+              "name": "BINARY SEARCH"
+            },
+            {
+              "name": "GREEDY"
+            },
+            {
+              "name": "ARRAY",
+              "children": [
+                {
+                  "name": "TWO SUM"
+                },
+                {
+                  "name": "MAXIMUM SUB ARRAY"
+                },
+                {
+                  "name": "MOVE ZEROS"
+                },
+                {
+                  "name": "TRAPPING RAIN WATER"
+                },
+                {
+                  "name": "ROTATE ARRAY"
+                }
+              ]
+            },
+            {
+              "name": "STRING ",
+              "children": [
+                {
+                  "name": "VALID ANAGRAM"
+                },
+                {
+                  "name": "LONGEST PALINDROMIC SUBSTRING"
+                }
+              ]
+            },
+            {
+              "name": "LINKED LIST",
+              "children": [
+                {
+                  "name": "REVERSE A LL"
+                },
+                {
+                  "name": "DETECT A CYCLE"
+                },
+                {
+                  "name": "MERGE TWO SORTED LL"
+                },
+                {
+                  "name": "PALINDROME LL"
+                },
+                {
+                  "name": "REMOVE Nth NODE FROM END"
+                }
+              ]
+            },
+            {
+              "name": "TREE",
+              "children": [
+                {
+                  "name": "INVERT BINARY TREE"
+                },
+                {
+                  "name": "LEVEL ORDER TRAVERSAL"
+                },
+                {
+                  "name": "LCA OF BINARY TREE"
+                },
+                {
+                  "name": "DIAMETER OF BINARY TREE"
+                },
+                {
+                  "name": "SYMMETRIC TREE"
+                }
+              ]
+            },
+            {
+              "name": "STACK AND QUEUE",
+              "children": [
+                {
+                  "name": "VALID PARATHESIS"
+                },
+                {
+                  "name": "MIN STACK"
+                },
+                {
+                  "name": "EVALUATE REVERSE POLISH NOTATION"
+                },
+                {
+                  "name": "IMPLEMENT QUEUE USING STACKS"
+                },
+                {
+                  "name": "SLIDING WINDOW MAXIMUM"
+                }
+              ]
+            },
+            {
+              "name": "DP",
+              "children": [
+                {
+                  "name": "CLIMBING STAIRS"
+                },
+                {
+                  "name": "HOUSE ROBBER"
+                },
+                {
+                  "name": "COIN CHANGE"
+                },
+                {
+                  "name": "LONGEST INCRESING SUBSEQUENCE"
+                },
+                {
+                  "name": "EDIT DISTANCE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CI/CD",
+          "children": [
+            {
+              "name": "DOCKER"
+            },
+            {
+              "name": "KUBERNETES"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PROJECTS"
+    },
+    {
+      "name": "RESUME",
+      "children": [
+        {
+          "name": ""
+        }
+      ]
+    },
+    {
+      "name": "AI ROADMAP",
+      "children": [
+        {
+          "name": "API AND SDK",
+          "children": [
+            {
+              "name": "HOW TO INTERACT : REQUEST AND RESPONSE VIA API"
+            }
+          ]
+        },
+        {
+          "name": "HOW DO CLOUD PROVIDERS WORKING WITH AI",
+          "children": [
+            {
+              "name": "AZURE : AI FOUNDRY"
+            },
+            {
+              "name": "AWS : BED ROCK & SAGE MATTER"
+            }
+          ]
+        },
+        {
+          "name": "AGENTS AND MCP",
+          "children": [
+            {
+              "name": "AGENTS + SYSTEMS + MCP : HOW DOES IT WORK"
+            }
+          ]
+        },
+        {
+          "name": "RETRIVAL AUGMENTED GENARATION",
+          "children": [
+            {
+              "name": "GIVING THE MODEL EXTERNAL DOCUMENATION TO BASE TO WORK WITH AN LLM AND HELP GIVE OUTPUT SPECIFIC TO THAT DATA"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
